@@ -1,0 +1,6 @@
+{
+    "dry_run": true,
+    "rules_path": "rules/rules.json",
+    "log_path": "miniedr.log",
+    "watch_paths": ["/etc", "/tmp", "/home"]
+}
